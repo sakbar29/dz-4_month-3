@@ -1,0 +1,25 @@
+.box  {
+    width: 300px;
+    height: 300px;
+}
+
+.block {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+}
+p{
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

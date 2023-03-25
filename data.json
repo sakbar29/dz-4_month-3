@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "title": "devochka v kolgotkah",
+        "img": "https://basket-10.wb.ru/vol1434/part143415/143415613/images/c516x688/2.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    },
+    {
+        "id": 2,
+        "title": "krasivye nogi",
+        "img": "https://basket-10.wb.ru/vol1391/part139186/139186766/images/c516x688/3.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    },
+    {
+        "id": 3,
+        "title": "shtany",
+        "img": "https://basket-10.wb.ru/vol1440/part144004/144004730/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    },
+    {
+        "id": 4,
+        "title": "beartiful girl",
+        "img": "https://basket-10.wb.ru/vol1477/part147784/147784779/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    },
+    {
+        "id": 5,
+        "title": "book",
+        "img": "https://basket-01.wb.ru/vol22/part2230/2230534/images/c516x688/2.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    },
+    {
+        "id": 6,
+        "title": "book",
+        "img": "https://basket-01.wb.ru/vol27/part2703/2703006/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    },
+    {
+        "id": 8,
+        "title": "paris",
+        "img": "https://basket-01.wb.ru/vol108/part10812/10812014/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+        
+    ,
+    {
+        "id": 9,
+        "title": "shark",
+        "img": "https://basket-01.wb.ru/vol115/part11568/11568667/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+    ,
+    {
+        "id": 10,
+        "title": "gangsta cat",
+        "img": "https://basket-01.wb.ru/vol119/part11932/11932700/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+    ,
+    {
+        "id": 11,
+        "title": "cherepashki ninja",
+        "img": "https://basket-02.wb.ru/vol191/part19128/19128271/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+    ,
+    {
+        "id": 12,
+        "title": "slon",
+        "img": "https://basket-02.wb.ru/vol191/part19128/19128465/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar", 
+        "discription": ""
+    }
+    ,
+    {
+        "id": 13,
+        "title": "cow",
+        "img": "https://basket-02.wb.ru/vol191/part19128/19128356/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+    ,
+    {
+        "id": 14,
+        "title": "ps",
+        "img": "https://basket-10.wb.ru/vol1486/part148606/148606604/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+    ,
+    {
+        "id": 15,
+        "title": "sony",
+        "img": "https://basket-09.wb.ru/vol1253/part125362/125362828/images/c516x688/2.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+    ,
+    {
+        "id": 16,
+        "title": "xbox",
+        "img": "https://basket-10.wb.ru/vol1433/part143364/143364158/images/c516x688/2.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+    ,
+    {
+        "id": 17,
+        "title": "game pass",
+        "img": "https://basket-10.wb.ru/vol1431/part143168/143168590/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+    ,
+    {
+        "id": 18,
+        "title": "paket",
+        "img": "https://basket-05.wb.ru/vol750/part75094/75094096/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+    ,
+    {
+        "id": 19,
+        "title": "kovrik",
+        "img": "https://basket-10.wb.ru/vol1492/part149214/149214586/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+    ,
+    {
+        "id": 20,
+        "title": "usb",
+        "img": "https://basket-10.wb.ru/vol1405/part140541/140541908/images/c516x688/1.jpg",
+        "price": "Sydykov Akbar",
+        "discription": ""
+    }
+
+]
